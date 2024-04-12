@@ -1,4 +1,4 @@
-# MyFirstRepo.
+# MyFirstRepo
 Overview:
 This public repository will provide hands-on experience in GitHub and Visual Studio integration, emphasizing basic Git operations for collaborative software development.
 
